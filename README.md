@@ -80,9 +80,7 @@ The only thing I recommend is actually getting Gochugaru (Korean chili flakes) a
 
 Some people, including me, also like to use Gochujang (Korean chili flake paste), but that is not mandatory, as part of the prep includes making a sort of Gochujang yourself. The only reason I use it is to give my kimchi paste an extra oomph of flavor and kick-start the fermentation process.
 
-### Prep
-
-#### Ingredients
+### Ingredients
 
 Veggies
 
@@ -97,7 +95,7 @@ Kimchi paste
 - 2-3 cloves of garlic
 - Chunk of ginger/big pinch of ginger powder
 
-#### Prep
+### Prep
 
 Shred/Chunk cabbage into a big bowl, sprinkle a lot of salt on top and massage it in.
 
@@ -117,7 +115,7 @@ Ferment it for 4 days, then pop it in the fridge.
 
 It should last you a while, but most likely you'll finish it long before it's not good anymore.
 
-#### Uses
+### Uses
 
 - Great on its own as a snack
 - If made with shredded cabbage, an amazing relish to put on hotdogs
